@@ -4,4 +4,4 @@ I am a junior studying Computer Science at Johns Hopkins University. I've previo
 
 Through my internships and independent projects, I've developed my skills in full-stack development, working with LLMs, cloud infrastructure-as-code, and systems development.
 
-Feel free to reach me at xinanrahman03@gmail.com!
+📧 Feel free to reach me at xinanrahman03@gmail.com!
